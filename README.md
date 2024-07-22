@@ -5,7 +5,7 @@
 - 📫 How to reach me email me at tb1145@outlook.com or tb114514@126.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I hate gay.
-- ```cpp
+```cpp
 #include<F*ck/You.h>
 int main(){
     Shit<int>stupid;
