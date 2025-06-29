@@ -1,19 +1,6 @@
-- 👋 Hi, I’m @Tb114
-- 👀 I’m interested in MDT, MC, florr.io, CS2, Forza Horizon4&5
-- 🌱 I’m currently learning Cpp algorithm & competition (I'm just a juruo)
-- 💞️ I’m looking to collaborate on nothing(current)
+- 👋 Ciallo, I’m @Tb114
 - 📫 Email me at tb1145@outlook.com or tb114514@126.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I hate gay.
-```cpp
-#include<F*ck/You.h>
-int main(){
-    Shit<int>stupid;
-    stupid.insert(motherf*cker::me);
-    return 114514;
-}
-```
-<!---
-Tb114/Tb114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![](https://img.shields.io/badge/bilibili---Tb__-FF6699)](https://space.bilibili.com/2081603574)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tb114&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
