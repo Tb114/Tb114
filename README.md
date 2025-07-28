@@ -1,6 +1,5 @@
 - Ciallo, I’m @Tb114
 - Email me at tb1145@outlook.com or tb114514@126.com
-- Pronouns: he/him
 
 [![](https://img.shields.io/badge/bilibili---Tb__-FF6699)](https://space.bilibili.com/2081603574)
 
